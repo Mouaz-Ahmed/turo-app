@@ -1,0 +1,52 @@
+.main_div{
+    display: flex;
+    justify-content: center;
+}
+.searchBar_div{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    width: 900px;
+    background-color: white;
+    padding: 4px;
+    border-radius: 30px;
+}
+.searchBar_input2_div{
+    border-left: 1px solid gray;
+    width: 280px;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+.searchBar_input3_div{
+    border-left: 1px solid gray;
+    /* padding-left: 20px; */
+    width: 280px;
+
+}
+.searchBar_input1_div{
+    width: 280px;
+
+    /* margin-left: -90px;
+    padding-right: 30px; */
+}
+.span{
+    display: block;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.inputs{
+    margin-left: 10px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+}
+.react_icons{
+    background-color: rgb(89, 60, 251);
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 40px;
+    color: white;
+    margin-top: 4px;
+    
+}

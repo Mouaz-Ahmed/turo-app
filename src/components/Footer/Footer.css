@@ -1,0 +1,83 @@
+.footer_main_div{
+    background-color: rgb(244, 244, 244)    ;
+}
+.footer_li_h1{
+    margin: 0;
+    color: #121214;
+    margin-bottom: 24px;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-transform: none;
+}
+/* .footer_main_div{
+    display: flex;
+    flex-direction: row;
+} */
+.footer_ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 103px;
+    margin-top:50px;
+}
+.footer_ul li{
+    color: black;
+    cursor: pointer;
+    list-style: none;
+    margin: 0;
+    margin-bottom: 8px;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-transform: none;
+    margin-left: 45px;
+}
+.footer_icons{
+    font-size: 25px;
+    margin-left: 15px;
+}
+.fb_icon{
+    font-size: 22px;
+}
+.blog{
+    display: inline;
+    padding: 2px 4px;
+    border-radius: 3px;
+    line-height: 13px;
+    text-transform: uppercase;
+    border: 1px solid #231F20;
+    color: #231F20;
+    font-size: 11px;
+    font-weight: 900;
+    margin-left: 15px;
+}
+.blog:hover{
+    text-decoration: underline;
+}
+.appStore{
+    width: 120px;
+    height: 40px;
+}
+.googlePlay{
+    width: 145px;
+    height: 60px;
+    margin-left: 10px;
+}
+.app_store_google_play_div{
+    margin: 15px 15px;
+}
+.uparrow{
+    font-size: 18px;
+    font-weight: 100;
+    margin-left: 15px;
+}
+.flag{
+    width: 40px;
+}
+.english_span{
+    font-weight:600;
+}

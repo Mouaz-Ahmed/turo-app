@@ -1,0 +1,21 @@
+.h1{
+    font-family:Times , serif;
+    color: red;
+    font-size: 83px !important;
+    font-weight: 900 !important;
+    letter-spacing: -0.2px;
+    line-height: 44px;
+    margin-top: 50px !important;
+    color: black !important;
+}
+.second_h1{
+    color: #121214 !important;
+    margin-bottom: 32px !important;
+    margin-top: 20px !important;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif !important;
+    font-size: 28px !important;
+    font-weight: 900 !important;
+    letter-spacing: 0 !important;
+    line-height: 20px !important;
+    text-transform: none !important;
+}

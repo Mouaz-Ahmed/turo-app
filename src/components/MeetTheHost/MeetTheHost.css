@@ -1,0 +1,125 @@
+.meet_host_h2 {
+    font-family: Times, serif;
+    font-size: 51px;
+    font-weight: 900;
+    letter-spacing: -0.5px;
+    line-height: 56px;
+    text-transform: none;
+    color: black;
+    margin-top: 70px;
+}
+.fourth_slider_h1{
+    margin-top: 30px;
+    font-size: 23px;
+    font-weight: 900;
+}
+.meet_host_slider_div {
+    position: relative;
+    box-shadow: 0px 0px 7px 1px rgba(206, 201, 201, 0.75);
+    /* width: 100%;
+    height: 75%; */
+    border-radius: 10px;
+    margin-left: 25px;
+    width: 328px !important;
+    height: 280px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.host_img_div {
+    display: flex;
+    margin: 14px;
+}
+
+.host_img {
+    max-width: initial;
+    width: 80px;
+    height: 80px;
+    background-size: 80px 80px;
+    display: inline-block;
+    box-sizing: content-box;
+    border: none;
+    border-radius: 999em;
+    overflow: hidden;
+}
+
+.host_info {
+    margin-left: 16px;
+}
+
+.host_para {
+    color: #121214;
+    margin-bottom: 4px;
+    font-family: Helvetica, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-transform: none;
+    margin-left: 3px;
+}
+
+.all_star_host {
+    color: #121214;
+    font-family: Helvetica, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-transform: none;
+}
+
+.all_star_span {
+    display: flex;
+}
+
+.all_star_span_p {
+    color: #121214;
+    margin-bottom: 0;
+    font-family: Helvetica, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-transform: none;
+    margin-left: 5px;
+}
+
+.joined_para {
+    color: #121214;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-transform: none;
+    margin-left: 3px;
+}
+
+.stars_div {
+    margin: 15px 15px;
+}
+
+.star_icon {
+    fill: blue;
+    padding: 1px;
+    font-size: 20px;
+}
+
+.second_last_para {
+    width: 85%;
+    margin: auto 20px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.host_name {
+    font-size: 12px;
+    /* margin: 30px 20px; */
+    position: absolute;
+    top: 230px;
+    left: 20px;
+}

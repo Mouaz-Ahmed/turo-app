@@ -1,22 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import AskedQuestions from './components/AskedQuestions';
+import Footer from './components/Footer';
+import FourthSlider from './components/FourthSlider';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import MeetTheHost from './components/MeetTheHost';
+import SecondLastFooter from './components/SecondLastFooter';
+import Section from './components/Section';
+import ShopGiftCards from './components/ShopGiftCards';
+import Travelogues from './components/Travelogues';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        < Header />
+        < Hero />
+        {/* In Section First Second Third slider */}
+        < Section /> 
+        < Travelogues />
+        < FourthSlider />
+        < ShopGiftCards />
+        < MeetTheHost />
+        < AskedQuestions />
+        < SecondLastFooter />
+        < Footer />
       </header>
     </div>
   );

@@ -1,0 +1,41 @@
+.bookCar_becomeHost_div {
+    margin-top: 60px;
+}
+.bookCar_img {
+    width: 280px;
+}
+.BecomeHost_img {
+    width: 250px;
+}
+.bookCar_div{
+    position: absolute;
+    right:0px;
+}
+.book_car_a {
+    font-family: Helvetica, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 900;
+    letter-spacing: -0.2px;
+    line-height: 32px;
+    text-decoration: none;
+}
+/* .a_p_div{
+    display: flex;
+    flex-direction: column;  
+    justify-content: space-between;
+} */
+.book_car_p {
+    width: 30%;
+    margin: 0;
+    color: #121214;
+    margin-bottom: 0;
+    font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    text-transform: none;
+}
+
+
+

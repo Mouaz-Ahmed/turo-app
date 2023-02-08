@@ -1,0 +1,59 @@
+.App-header {
+    display: flex;
+    font-weight: 400;
+    flex-direction: column;
+  }
+  
+/* first header */
+.first_header {
+    background-color: rgb(244, 244, 244);
+    width: 100%;
+    text-align: center;
+    
+}
+.first_header p{
+    margin-top: 13px;
+    color: gray;
+    font-size: 16px;
+}
+
+/* second header  start*/
+
+.second_header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    justify-content: flex-end;
+}
+
+.turo-logo {
+    width: 90px;
+    position: absolute;
+    left: 10px;
+}
+
+/* second header btn */
+.button{
+    color: rgb(110, 105, 105);
+    border: 1px solid black !important;
+    background-color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 3px;
+    width: 140px;
+    transition: 0.3s;
+}
+.button:hover{
+    border-radius: 5px;
+}
+/* second header icons  */
+
+.header_icons {
+    margin-right: 5px;
+    padding: 5px;
+    font-size: 30px;
+    color: gray;
+}
+
+/* second header end  */
